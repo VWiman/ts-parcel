@@ -65,8 +65,10 @@ This repository contains only a boilerplate setup. The actual tools used in this
 - **[TypeScript](https://www.typescriptlang.org/)**: MIT License
 - **[Parcel](https://parceljs.org/)**: MIT License
 
-The contents of this repository are released under the MIT License. Feel free to use this repository as a starting point for your own TypeScript projects.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. Feel free to use this repository as a starting point for your own TypeScript projects.
 
 ## Author
 
-Created by **VWiman**
+Created by **Viktor Wiman**

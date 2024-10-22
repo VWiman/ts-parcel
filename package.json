@@ -1,20 +1,26 @@
 {
-	"name": "ts-parcel",
-	"version": "1.0.0",
-	"description": "Basic install for TypeScript and Parcel",
-	"main": "index.js",
-	"scripts": {
-		"dev": "parcel src/index.html",
-		"build": "parcel build src/index.html"
-	},
-	"keywords": [
-		"parcel",
-		"typescript"
-	],
-	"author": "VWiman",
-	"license": "ISC",
-	"devDependencies": {
-		"parcel": "^2.12.0",
-		"typescript": "^5.6.3"
-	}
+  "name": "ts-parcel",
+  "version": "1.0.0",
+  "description": "Basic install for TypeScript and Parcel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "parcel",
+    "typescript",
+    "boilerplate",
+    "starter"
+  ],
+  "author": "Viktor Wiman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VWiman/ts-parcel.git"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "typescript": "^5.6.3"
+  }
 }
