@@ -53,6 +53,7 @@ ts-parcel/
 │   ├── index.html   # Entry HTML file
 │   ├── index.ts     # Entry TypeScript file
 ├── package.json     # Project metadata and dependencies
+├── README.md        # Project information and instructions
 ├── tsconfig.json    # TypeScript configuration
 └── .gitignore       # Ignored files
 ```
