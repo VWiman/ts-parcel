@@ -11,7 +11,7 @@
 		"parcel",
 		"typescript"
 	],
-	"author": "Viktor Wiman",
+	"author": "VWiman",
 	"license": "ISC",
 	"devDependencies": {
 		"parcel": "^2.12.0",
