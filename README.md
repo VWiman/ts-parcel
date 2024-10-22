@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a basic boilerplate setup for TypeScript projects using [Parcel](https://parceljs.org/) as the bundler. It provides a ready-to-go development environment with [TypeScript](https://www.typescriptlang.org/) support, configured with essential settings for a streamlined development workflow.
+This project is a basic boilerplate setup for TypeScript projects using [Parcel](https://parceljs.org/) as the bundler. It provides a ready-to-go development environment with TypeScript support, configured with essential settings for a streamlined development workflow.
 
 ## Features
 
@@ -18,28 +18,32 @@ This project is a basic boilerplate setup for TypeScript projects using [Parcel]
 - **Node.js** (version 16 or above recommended)
 - **npm** (comes with Node.js)
 
-### Installation
+### Using the Template
 
-1. **Clone the repository**:
+To create a new project using this template, follow these steps:
+
+1. **Click the "Use this template" button** on the repository’s GitHub page.
+2. **Create a new repository** with your desired name and choose the visibility (public or private).
+3. **Clone your new repository** to your local machine:
 
    ```bash
-   git clone https://github.com/VWiman/ts-parcel.git
-   cd ts-parcel
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   cd YOUR-REPO-NAME
    ```
 
-2. **Install dependencies**:
+4. **Install dependencies**:
 
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+5. **Start the development server**:
 
    ```bash
    npm run dev
    ```
 
-4. **Build for production**:
+6. **Build for production**:
 
    ```bash
    npm run build
@@ -65,10 +69,8 @@ This repository contains only a boilerplate setup. The actual tools used in this
 - **[TypeScript](https://www.typescriptlang.org/)**: MIT License
 - **[Parcel](https://parceljs.org/)**: MIT License
 
-## License
-
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. Feel free to use this repository as a starting point for your own TypeScript projects.
 
 ## Author
 
-Created by **Viktor Wiman**
+Created by **Viktor Wiman**.
